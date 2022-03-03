@@ -14,7 +14,7 @@
         </span>
         <el-dropdown-menu slot="dropdown">
           <el-dropdown-item>个人中心</el-dropdown-item>
-          <el-dropdown-item @click.native="exit">退出登录</el-dropdown-item>
+          <el-dropdown-item @click.native="exit">我要退出</el-dropdown-item>
         </el-dropdown-menu>
       </el-dropdown>
     </div>
